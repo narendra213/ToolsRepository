@@ -6,7 +6,7 @@ public class App {
 	  }
     public static void main(String[] args) {
         App app=new App();
-        System.out.println(" Dev 1.....the sum is::"+app.sum(10, 20));
+        System.out.println(" TL....the sum is::"+app.sum(10, 20));
         
     }
 }
